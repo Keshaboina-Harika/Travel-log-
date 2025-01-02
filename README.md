@@ -11,7 +11,6 @@ A full-stack web application to explore and share travel experiences, featuring 
     API Endpoints
     Project Structure
     Future Enhancements
-    License
 
 📌 Project Overview
 
@@ -140,10 +139,7 @@ travel-log-app/
 │  
 └── README.md  
 
-🚀 Future Enhancements
-
-    User Authentication:
-        Add login and signup functionality using JWT.
+🚀 Future Enhancements:
 
     Geolocation Features:
         Implement geolocation to provide location-based suggestions.
@@ -151,5 +147,3 @@ travel-log-app/
     Real-Time Chat:
         Allow users to communicate and share travel plans in real time.
 
-    Admin Panel:
-        Manage destinations, reviews, and ratings through an admin dashboard.
